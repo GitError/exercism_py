@@ -29,6 +29,14 @@ The repository is organized into subdirectories, each representing a specific ex
 - `perfect_number/`: Function to classify a number as perfect, abundant, or deficient.
 - `black_jack/`: Functions implementing some rules of Blackjack, such as the way the game is played and scored.
 - `darts/`: Function to calculate the points scored in a single toss of a Darts game.
+- `strings/`: Functions to perform basic string operations like searching, cleaning, splitting, transforming, and translating.
+- `lists/`: Functions to perform basic list operations, such as concatenation, filtering, and averaging.
+- `sublist/`: Functions to determine the relationship between two lists (e.g., sublist, superlist, equal, or unequal).
+- `resistor_color/`: Functions to convert resistor colors to their numerical values.
+- `resistor_color_duo/`: Function to calculate the resistance value of a resistor based on the first two color bands.
+- `resistor_color_trio/`: Function to calculate the resistance value of a resistor based on three color bands.
+- `resistor_color_expert/`: Function to calculate the resistance value and tolerance of a resistor based on its color bands.
+- `all_your_base/`: Function to convert a sequence of digits in one base to another base.
 
 Each subdirectory contains:
 - A Python file with the solution.
