@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![Exercises](https://img.shields.io/badge/Exercises-30%2B-brightgreen)
+![Exercises](https://img.shields.io/badge/Exercises-35%2B-brightgreen)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 
@@ -44,17 +44,20 @@ exercise_name/
 - **[arcade_game/](./arcade_game/)**: Classic game rule implementation.
 - **[leap/](./leap/)**: Leap year determination algorithm.
 - **[exchange/](./exchange/)**: Currency exchange calculation.
+- **[hello_world/](./hello_world/)**: Basic "Hello, World!" program.
 
 ### String Operations
 - **[strings/](./strings/)**: Basic string manipulation techniques.
 - **[pig_latin/](./pig_latin/)**: Text translation according to specific rules.
 - **[bob/](./bob/)**: Response generation based on input patterns.
+- **[reverse_string/](./reverse_string/)**: Reversing strings efficiently.
 
 ### Data Structures
 - **[lists/](./lists/)**: Basic list operations and transformations.
 - **[sublist/](./sublist/)**: Compare relationships between lists.
 - **[all_your_base/](./all_your_base/)**: Base conversion algorithms.
 - **[loops/](./loops/)**: Iterative operations and student score calculations.
+- **[binary_search/](./binary_search/)**: Efficient searching in sorted lists.
 
 ### Mathematics
 - **[grains/](./grains/)**: Exponential growth calculation.
@@ -63,10 +66,12 @@ exercise_name/
 - **[collatz_conjecture/](./collatz_conjecture/)**: Implementation of a mathematical sequence.
 - **[raindrops/](./raindrops/)**: Advanced FizzBuzz-style problem.
 - **[triangle/](./triangle/)**: Geometric shape validation.
+- **[prime_factors/](./prime_factors/)**: Prime factorization of numbers.
 
 ### Games & Simulations
 - **[black_jack/](./black_jack/)**: Card game rules implementation.
 - **[darts/](./darts/)**: Scoring system for a target game.
+- **[tic_tac_toe/](./tic_tac_toe/)**: Implementation of a classic game.
 
 ### Electronics
 - **[resistor_color/](./resistor_color/)**: Basic resistor color codes.
