@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![Exercises](https://img.shields.io/badge/Exercises-35%2B-brightgreen)
+![Exercises](https://img.shields.io/badge/Exercises-40%2B-brightgreen)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 
@@ -61,7 +61,7 @@ exercise_name/
 
 ### Mathematics
 - **[grains/](./grains/)**: Exponential growth calculation.
-- **[perfect_number/](./perfect_number/)**: Number classification.
+- **[perfect_numbers/](./perfect_numbers/)**: Number classification.
 - **[armstrong_numbers/](./armstrong_numbers/)**: Validating Armstrong numbers.
 - **[collatz_conjecture/](./collatz_conjecture/)**: Implementation of a mathematical sequence.
 - **[raindrops/](./raindrops/)**: Advanced FizzBuzz-style problem.

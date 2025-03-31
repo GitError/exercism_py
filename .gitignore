@@ -26,3 +26,10 @@ build/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# pytest
+*.cover
+.coveragerc
+*.hypothesis/
+*.hypothesis/
+*.pytest_cache/
