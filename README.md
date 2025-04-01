@@ -2,9 +2,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![Exercises](https://img.shields.io/badge/Exercises-50%2B-brightgreen)
-![Build](https://img.shields.io/badge/Build-passing-brightgreen)
-![Tests](https://img.shields.io/badge/Tests-passing-brightgreen)
+![Exercises](https://img.shields.io/badge/Exercises-40%2B-brightgreen)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
+![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen)
 
 This repository contains my solutions to Python exercises from [Exercism](https://exercism.org/), a platform for practicing and improving coding skills through interactive exercises.
 
@@ -52,6 +52,8 @@ exercise_name/
 - **[bob/](./bob/)**: Response generation based on input patterns.
 - **[reverse_string/](./reverse_string/)**: Reversing strings efficiently.
 - **[matching_brackets/](./matching_brackets/)**: Verifying balanced brackets, braces, and parentheses.
+- **[crypto_square/](./crypto_square/)**: Encoding text using the square code cipher.
+- **[rna_transcription/](./rna_transcription/)**: Transcribing DNA strands into RNA.
 
 ### Data Structures
 - **[lists/](./lists/)**: Basic list operations and transformations.
