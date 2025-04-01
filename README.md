@@ -51,6 +51,7 @@ exercise_name/
 - **[pig_latin/](./pig_latin/)**: Text translation according to specific rules.
 - **[bob/](./bob/)**: Response generation based on input patterns.
 - **[reverse_string/](./reverse_string/)**: Reversing strings efficiently.
+- **[matching_brackets/](./matching_brackets/)**: Verifying balanced brackets, braces, and parentheses.
 
 ### Data Structures
 - **[lists/](./lists/)**: Basic list operations and transformations.
@@ -78,6 +79,11 @@ exercise_name/
 - **[resistor_color_duo/](./resistor_color_duo/)**: Two-band resistor values.
 - **[resistor_color_trio/](./resistor_color_trio/)**: Three-band resistor values.
 - **[resistor_color_expert/](./resistor_color_expert/)**: Full resistor value and tolerance calculation.
+
+### Miscellaneous
+- **[tuples/](./tuples/)**: Organizing treasure hunt data using tuples.
+- **[anagram/](./anagram/)**: Finding anagrams from a list of candidates.
+- **[scrabble_score/](./scrabble_score/)**: Calculating Scrabble word scores.
 
 ---
 
