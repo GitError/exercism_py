@@ -1,8 +1,4 @@
 
----
-
-### **Conditionals**
-```markdown
 # Conditionals
 
 This module provides functions to demonstrate the use of conditional statements in Python.

@@ -1,8 +1,3 @@
-
----
-
-### **Darts**
-```markdown
 # Darts
 
 This module provides a function to calculate the score of a dart throw based on its position on the dartboard.

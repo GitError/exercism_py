@@ -1,8 +1,3 @@
-
----
-
-### **Lasagna**
-```markdown
 # Lasagna
 
 This module provides functions to calculate the preparation and cooking time for a lasagna.

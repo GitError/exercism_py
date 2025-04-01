@@ -1,7 +1,3 @@
----
-
-### **Resistor Color**
-```markdown
 # Resistor Color
 
 This module provides a function to determine the numerical value of a resistor based on its color.

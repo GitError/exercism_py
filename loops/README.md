@@ -1,8 +1,3 @@
-
----
-
-### **Loops**
-```markdown
 # Loops
 
 This module provides functions to demonstrate the use of loops in Python.

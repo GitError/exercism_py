@@ -1,8 +1,3 @@
-
----
-
-### **Resistor Color Trio**
-```markdown
 # Resistor Color Trio
 
 This module provides a function to calculate the resistance value of a resistor using three color bands.

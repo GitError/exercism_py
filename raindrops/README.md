@@ -1,8 +1,3 @@
-
----
-
-### **Raindrops**
-```markdown
 # Raindrops
 
 This module provides a function to convert a number into a string based on its factors.

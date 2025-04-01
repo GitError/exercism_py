@@ -1,8 +1,3 @@
-
----
-
-### **Pig Latin**
-```markdown
 # Pig Latin
 
 This module provides a function to translate English words or phrases into Pig Latin.

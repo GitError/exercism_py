@@ -3,8 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Exercises](https://img.shields.io/badge/Exercises-50%2B-brightgreen)
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
-![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
+![Build](https://img.shields.io/badge/Build-passing-brightgreen)
+![Tests](https://img.shields.io/badge/Tests-passing-brightgreen)
 
 This repository contains my solutions to Python exercises from [Exercism](https://exercism.org/), a platform for practicing and improving coding skills through interactive exercises.
 

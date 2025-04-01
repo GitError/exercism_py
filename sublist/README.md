@@ -1,8 +1,3 @@
-
----
-
-### **Sublist**
-```markdown
 # Sublist
 
 This module provides a function to compare two lists and determine their relationship.

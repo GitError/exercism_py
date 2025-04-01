@@ -1,8 +1,3 @@
-
----
-
-### **Triangle**
-```markdown
 # Triangle
 
 This module provides a function to determine the type of a triangle based on its side lengths.

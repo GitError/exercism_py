@@ -1,8 +1,3 @@
-
----
-
-### **Lists**
-```markdown
 # Lists
 
 This module provides functions to perform basic operations on lists.

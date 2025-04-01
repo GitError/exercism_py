@@ -1,8 +1,3 @@
-
----
-
-### **Strings**
-```markdown
 # Strings
 
 This module provides functions to perform basic string operations.

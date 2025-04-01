@@ -1,8 +1,4 @@
 
----
-
-### **Grains**
-```markdown
 # Grains
 
 This module provides functions to calculate the number of grains of wheat on a chessboard given that the number doubles on each square.

@@ -1,8 +1,3 @@
-
----
-
-### **Exchange**
-```markdown
 # Currency Exchange
 
 This module provides functions to calculate currency exchange rates and conversions.

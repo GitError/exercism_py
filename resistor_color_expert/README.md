@@ -1,8 +1,3 @@
-
----
-
-### **Resistor Color Expert**
-```markdown
 # Resistor Color Expert
 
 This module provides functions to calculate the resistance value of a resistor using advanced color band logic.

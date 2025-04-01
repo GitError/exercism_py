@@ -1,8 +1,3 @@
-
----
-
-### **Resistor Color Duo**
-```markdown
 # Resistor Color Duo
 
 This module provides a function to calculate the resistance value of a resistor using two color bands.
