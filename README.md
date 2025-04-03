@@ -54,6 +54,7 @@ exercise_name/
 - **[matching_brackets/](./matching_brackets/)**: Verifying balanced brackets, braces, and parentheses.
 - **[crypto_square/](./crypto_square/)**: Encoding text using the square code cipher.
 - **[rna_transcription/](./rna_transcription/)**: Transcribing DNA strands into RNA.
+- **[atbash_cipher/](./atbash_cipher/)**: Encoding and decoding text using the Atbash cipher.
 
 ### Data Structures
 - **[lists/](./lists/)**: Basic list operations and transformations.
@@ -61,6 +62,7 @@ exercise_name/
 - **[all_your_base/](./all_your_base/)**: Base conversion algorithms.
 - **[loops/](./loops/)**: Iterative operations and student score calculations.
 - **[binary_search/](./binary_search/)**: Efficient searching in sorted lists.
+- **[list_ops/](./list_ops/)**: Implementing basic list operations like map, filter, and fold.
 
 ### Mathematics
 - **[grains/](./grains/)**: Exponential growth calculation.
@@ -70,6 +72,7 @@ exercise_name/
 - **[raindrops/](./raindrops/)**: Advanced FizzBuzz-style problem.
 - **[triangle/](./triangle/)**: Geometric shape validation.
 - **[prime_factors/](./prime_factors/)**: Prime factorization of numbers.
+- **[largest_series_product/](./largest_series_product/)**: Finding the largest product in a series of digits.
 
 ### Games & Simulations
 - **[black_jack/](./black_jack/)**: Card game rules implementation.
@@ -86,6 +89,7 @@ exercise_name/
 - **[tuples/](./tuples/)**: Organizing treasure hunt data using tuples.
 - **[anagram/](./anagram/)**: Finding anagrams from a list of candidates.
 - **[scrabble_score/](./scrabble_score/)**: Calculating Scrabble word scores.
+- **[diamond/](./diamond/)**: Generating a diamond shape based on a given letter.
 
 ---
 
