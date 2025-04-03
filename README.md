@@ -90,6 +90,8 @@ exercise_name/
 - **[anagram/](./anagram/)**: Finding anagrams from a list of candidates.
 - **[scrabble_score/](./scrabble_score/)**: Calculating Scrabble word scores.
 - **[diamond/](./diamond/)**: Generating a diamond shape based on a given letter.
+- **[house/](./house/)**: Reciting the nursery rhyme "This is the House that Jack Built."
+- **[killer_sudoku_helper/](./killer_sudoku_helper/)**: Generating valid combinations for Killer Sudoku cages.
 
 ---
 
