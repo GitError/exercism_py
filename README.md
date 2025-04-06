@@ -55,6 +55,7 @@ exercise_name/
 - **[crypto_square/](./crypto_square/)**: Encoding text using the square code cipher.
 - **[rna_transcription/](./rna_transcription/)**: Transcribing DNA strands into RNA.
 - **[atbash_cipher/](./atbash_cipher/)**: Encoding and decoding text using the Atbash cipher.
+- **[acronym/](./acronym/)**: Converting phrases to their acronyms.
 
 ### Data Structures
 - **[lists/](./lists/)**: Basic list operations and transformations.
@@ -73,7 +74,8 @@ exercise_name/
 - **[triangle/](./triangle/)**: Geometric shape validation.
 - **[prime_factors/](./prime_factors/)**: Prime factorization of numbers.
 - **[largest_series_product/](./largest_series_product/)**: Finding the largest product in a series of digits.
-- **[wordy](./wordy/)**: Parse and evaluate simple math word problems
+- **[wordy/](./wordy/)**: Parse and evaluate simple math word problems.
+- **[palindrome_products/](./palindrome_products/)**: Finding palindromic products and their factors.
 
 ### Games & Simulations
 - **[black_jack/](./black_jack/)**: Card game rules implementation.
