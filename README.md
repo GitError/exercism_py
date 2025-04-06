@@ -73,11 +73,13 @@ exercise_name/
 - **[triangle/](./triangle/)**: Geometric shape validation.
 - **[prime_factors/](./prime_factors/)**: Prime factorization of numbers.
 - **[largest_series_product/](./largest_series_product/)**: Finding the largest product in a series of digits.
+- **[wordy](./wordy/)**: Parse and evaluate simple math word problems
 
 ### Games & Simulations
 - **[black_jack/](./black_jack/)**: Card game rules implementation.
 - **[darts/](./darts/)**: Scoring system for a target game.
 - **[tic_tac_toe/](./tic_tac_toe/)**: Implementation of a classic game.
+- **[minesweeper/](./minesweeper/)**: Annotating a Minesweeper board with mine counts.
 
 ### Electronics
 - **[resistor_color/](./resistor_color/)**: Basic resistor color codes.
