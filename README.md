@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![Exercises](https://img.shields.io/badge/Exercises-40%2B-brightgreen)
+![Exercises](https://img.shields.io/badge/Exercises-50%2B-brightgreen)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
 ![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen)
 
@@ -39,31 +39,45 @@ exercise_name/
 ## 🧩 Exercise Categories
 
 ### Fundamentals
+- **[hello_world/](./hello_world/)**: Basic "Hello, World!" program.
 - **[lasagna/](./lasagna/)**: Functions for calculating preparation times (basic function concepts).
 - **[conditionals/](./conditionals/)**: Implementing control statements.
+- **[loops/](./loops/)**: Iterative operations and student score calculations.
 - **[arcade_game/](./arcade_game/)**: Classic game rule implementation.
 - **[leap/](./leap/)**: Leap year determination algorithm.
 - **[exchange/](./exchange/)**: Currency exchange calculation.
-- **[hello_world/](./hello_world/)**: Basic "Hello, World!" program.
-
-### String Operations
-- **[strings/](./strings/)**: Basic string manipulation techniques.
-- **[pig_latin/](./pig_latin/)**: Text translation according to specific rules.
-- **[bob/](./bob/)**: Response generation based on input patterns.
-- **[reverse_string/](./reverse_string/)**: Reversing strings efficiently.
-- **[matching_brackets/](./matching_brackets/)**: Verifying balanced brackets, braces, and parentheses.
-- **[crypto_square/](./crypto_square/)**: Encoding text using the square code cipher.
-- **[rna_transcription/](./rna_transcription/)**: Transcribing DNA strands into RNA.
-- **[atbash_cipher/](./atbash_cipher/)**: Encoding and decoding text using the Atbash cipher.
-- **[acronym/](./acronym/)**: Converting phrases to their acronyms.
 
 ### Data Structures
 - **[lists/](./lists/)**: Basic list operations and transformations.
+- **[tuples/](./tuples/)**: Organizing treasure hunt data using tuples.
+- **[dictionaries/](./dictionaries/)**: Working with key-value data structures.
+- **[sets/](./sets/)**: Solving problems using unordered collections.
 - **[sublist/](./sublist/)**: Compare relationships between lists.
-- **[all_your_base/](./all_your_base/)**: Base conversion algorithms.
-- **[loops/](./loops/)**: Iterative operations and student score calculations.
-- **[binary_search/](./binary_search/)**: Efficient searching in sorted lists.
 - **[list_ops/](./list_ops/)**: Implementing basic list operations like map, filter, and fold.
+
+### String Manipulation
+- **[strings/](./strings/)**: Basic string manipulation techniques.
+- **[reverse_string/](./reverse_string/)**: Reversing strings efficiently.
+- **[acronym/](./acronym/)**: Converting phrases to their acronyms.
+- **[rna_transcription/](./rna_transcription/)**: Transcribing DNA strands into RNA.
+- **[isogram/](./isogram/)**: Determining if a word has no repeating letters.
+- **[pangram/](./pangram/)**: Checking if a sentence uses every letter of the alphabet.
+
+### Text Processing & Encoding
+- **[pig_latin/](./pig_latin/)**: Text translation according to specific rules.
+- **[bob/](./bob/)**: Response generation based on input patterns.
+- **[matching_brackets/](./matching_brackets/)**: Verifying balanced brackets, braces, and parentheses.
+- **[crypto_square/](./crypto_square/)**: Encoding text using the square code cipher.
+- **[atbash_cipher/](./atbash_cipher/)**: Encoding and decoding text using the Atbash cipher.
+- **[rotational_cipher/](./rotational_cipher/)**: Implementing the Caesar cipher rotation.
+
+### Algorithms
+- **[binary_search/](./binary_search/)**: Efficient searching in sorted lists.
+- **[anagram/](./anagram/)**: Finding anagrams from a list of candidates.
+- **[all_your_base/](./all_your_base/)**: Base conversion algorithms.
+- **[flatten_array/](./flatten_array/)**: Converting nested arrays into a flat structure.
+- **[run_length_encoding/](./run_length_encoding/)**: Implementing RLE compression.
+- **[difference_of_squares/](./difference_of_squares/)**: Calculating mathematical differences.
 
 ### Mathematics
 - **[grains/](./grains/)**: Exponential growth calculation.
@@ -77,11 +91,20 @@ exercise_name/
 - **[wordy/](./wordy/)**: Parse and evaluate simple math word problems.
 - **[palindrome_products/](./palindrome_products/)**: Finding palindromic products and their factors.
 
+### Object-Oriented Programming
+- **[class_inheritance/](./class_inheritance/)**: Implementing inheritance relationships.
+- **[bank_account/](./bank_account/)**: Managing financial transactions with OOP.
+- **[robot_name/](./robot_name/)**: Generating and managing unique identifiers.
+- **[phone_number/](./phone_number/)**: Parsing and validating phone numbers.
+- **[matrix/](./matrix/)**: Implementing a matrix class with various operations.
+
 ### Games & Simulations
 - **[black_jack/](./black_jack/)**: Card game rules implementation.
 - **[darts/](./darts/)**: Scoring system for a target game.
 - **[tic_tac_toe/](./tic_tac_toe/)**: Implementation of a classic game.
 - **[minesweeper/](./minesweeper/)**: Annotating a Minesweeper board with mine counts.
+- **[poker/](./poker/)**: Determining winning poker hands.
+- **[saddle_points/](./saddle_points/)**: Finding special points in a matrix.
 
 ### Electronics
 - **[resistor_color/](./resistor_color/)**: Basic resistor color codes.
@@ -89,13 +112,14 @@ exercise_name/
 - **[resistor_color_trio/](./resistor_color_trio/)**: Three-band resistor values.
 - **[resistor_color_expert/](./resistor_color_expert/)**: Full resistor value and tolerance calculation.
 
-### Miscellaneous
-- **[tuples/](./tuples/)**: Organizing treasure hunt data using tuples.
-- **[anagram/](./anagram/)**: Finding anagrams from a list of candidates.
+### Advanced Concepts
 - **[scrabble_score/](./scrabble_score/)**: Calculating Scrabble word scores.
 - **[diamond/](./diamond/)**: Generating a diamond shape based on a given letter.
 - **[house/](./house/)**: Reciting the nursery rhyme "This is the House that Jack Built."
 - **[killer_sudoku_helper/](./killer_sudoku_helper/)**: Generating valid combinations for Killer Sudoku cages.
+- **[yacht/](./yacht/)**: Score calculation for the dice game Yacht.
+- **[allergies/](./allergies/)**: Determining allergies from a numeric score using bitwise operations.
+- **[simple_cipher/](./simple_cipher/)**: Implementing substitution ciphers.
 
 ---
 
