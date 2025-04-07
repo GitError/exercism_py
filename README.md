@@ -54,6 +54,8 @@ exercise_name/
 - **[sets/](./sets/)**: Solving problems using unordered collections.
 - **[sublist/](./sublist/)**: Compare relationships between lists.
 - **[list_ops/](./list_ops/)**: Implementing basic list operations like map, filter, and fold.
+- **[linked_list/](./linked_list/)**: Implementation of a doubly linked list.
+- **[binary_tree/](./binary_tree/)**: Working with tree data structures.
 
 ### String Manipulation
 - **[strings/](./strings/)**: Basic string manipulation techniques.
@@ -62,6 +64,7 @@ exercise_name/
 - **[rna_transcription/](./rna_transcription/)**: Transcribing DNA strands into RNA.
 - **[isogram/](./isogram/)**: Determining if a word has no repeating letters.
 - **[pangram/](./pangram/)**: Checking if a sentence uses every letter of the alphabet.
+- **[word_count/](./word_count/)**: Counting word frequencies in text.
 
 ### Text Processing & Encoding
 - **[pig_latin/](./pig_latin/)**: Text translation according to specific rules.
@@ -70,6 +73,7 @@ exercise_name/
 - **[crypto_square/](./crypto_square/)**: Encoding text using the square code cipher.
 - **[atbash_cipher/](./atbash_cipher/)**: Encoding and decoding text using the Atbash cipher.
 - **[rotational_cipher/](./rotational_cipher/)**: Implementing the Caesar cipher rotation.
+- **[rail_fence_cipher/](./rail_fence_cipher/)**: Encoding with zig-zag pattern.
 
 ### Algorithms
 - **[binary_search/](./binary_search/)**: Efficient searching in sorted lists.
@@ -78,6 +82,9 @@ exercise_name/
 - **[flatten_array/](./flatten_array/)**: Converting nested arrays into a flat structure.
 - **[run_length_encoding/](./run_length_encoding/)**: Implementing RLE compression.
 - **[difference_of_squares/](./difference_of_squares/)**: Calculating mathematical differences.
+- **[nth_prime/](./nth_prime/)**: Finding the nth prime number.
+- **[sorting/](./sorting/)**: Various sorting algorithm implementations.
+- **[fibonacci/](./fibonacci/)**: Implementing the Fibonacci sequence.
 
 ### Mathematics
 - **[grains/](./grains/)**: Exponential growth calculation.
@@ -90,6 +97,8 @@ exercise_name/
 - **[largest_series_product/](./largest_series_product/)**: Finding the largest product in a series of digits.
 - **[wordy/](./wordy/)**: Parse and evaluate simple math word problems.
 - **[palindrome_products/](./palindrome_products/)**: Finding palindromic products and their factors.
+- **[pythagorean_triplet/](./pythagorean_triplet/)**: Finding special triangles with integer sides.
+- **[sieve/](./sieve/)**: Implementing the Sieve of Eratosthenes.
 
 ### Object-Oriented Programming
 - **[class_inheritance/](./class_inheritance/)**: Implementing inheritance relationships.
@@ -97,6 +106,8 @@ exercise_name/
 - **[robot_name/](./robot_name/)**: Generating and managing unique identifiers.
 - **[phone_number/](./phone_number/)**: Parsing and validating phone numbers.
 - **[matrix/](./matrix/)**: Implementing a matrix class with various operations.
+- **[clock/](./clock/)**: Creating a class that handles clock operations.
+- **[custom_set/](./custom_set/)**: Implementing a set class from scratch.
 
 ### Games & Simulations
 - **[black_jack/](./black_jack/)**: Card game rules implementation.
@@ -105,12 +116,22 @@ exercise_name/
 - **[minesweeper/](./minesweeper/)**: Annotating a Minesweeper board with mine counts.
 - **[poker/](./poker/)**: Determining winning poker hands.
 - **[saddle_points/](./saddle_points/)**: Finding special points in a matrix.
+- **[connect/](./connect/)**: Implementing the board game "Connect".
+- **[hangman/](./hangman/)**: Classic word-guessing game implementation.
 
 ### Electronics
 - **[resistor_color/](./resistor_color/)**: Basic resistor color codes.
 - **[resistor_color_duo/](./resistor_color_duo/)**: Two-band resistor values.
 - **[resistor_color_trio/](./resistor_color_trio/)**: Three-band resistor values.
 - **[resistor_color_expert/](./resistor_color_expert/)**: Full resistor value and tolerance calculation.
+- **[ledger/](./ledger/)**: Managing financial records and formatting.
+
+### Advanced Python Features
+- **[decorator_pattern/](./decorator_pattern/)**: Using Python decorators.
+- **[context_managers/](./context_managers/)**: Implementing the context manager protocol.
+- **[metaclass/](./metaclass/)**: Working with Python's metaclass system.
+- **[descriptor/](./descriptor/)**: Implementing descriptor protocols.
+- **[generator/](./generator/)**: Creating and working with generators.
 
 ### Advanced Concepts
 - **[scrabble_score/](./scrabble_score/)**: Calculating Scrabble word scores.
@@ -120,6 +141,15 @@ exercise_name/
 - **[yacht/](./yacht/)**: Score calculation for the dice game Yacht.
 - **[allergies/](./allergies/)**: Determining allergies from a numeric score using bitwise operations.
 - **[simple_cipher/](./simple_cipher/)**: Implementing substitution ciphers.
+- **[parallel_letter_frequency/](./parallel_letter_frequency/)**: Multi-threaded letter counting.
+- **[error_handling/](./error_handling/)**: Advanced exception handling techniques.
+- **[complex_numbers/](./complex_numbers/)**: Implementing a complex number class.
+
+### Web and APIs
+- **[rest_api/](./rest_api/)**: Building a simple REST API.
+- **[http_client/](./http_client/)**: Working with HTTP requests and responses.
+- **[json_parsing/](./json_parsing/)**: Processing and validating JSON data.
+- **[web_scraping/](./web_scraping/)**: Extracting data from web pages.
 
 ---
 
