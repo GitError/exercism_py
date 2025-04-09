@@ -28,7 +28,7 @@ All solutions follow [PEP 8](https://peps.python.org/pep-0008/) style guidelines
 Each exercise is contained in its own directory with a consistent structure:
 
 ```
-solutions/exercise_name/
+solution/exercise_name/
 ├── exercise_name.py      # Solution implementation
 ├── exercise_name_test.py # Unit tests
 └── README.md             # Solution description and requirements
@@ -201,7 +201,7 @@ solutions/exercise_name/
 
 You can run any solution directly:
 ```bash
-python ./solutions/[exercise_name]/[exercise_name].py
+python ./solution/[exercise_name]/[exercise_name].py
 ```
 
 ### Running Tests
@@ -209,7 +209,7 @@ python ./solutions/[exercise_name]/[exercise_name].py
 To verify a solution against the test cases:
 ```bash
 # Run tests for a specific exercise
-pytest ./solutions/[exercise_name]/[exercise_name_test].py
+pytest ./solution/[exercise_name]/[exercise_name_test].py
 
 # Run all tests
 pytest
