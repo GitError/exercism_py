@@ -65,6 +65,9 @@ exercise_name/
 - **[isogram/](./isogram/)**: Determining if a word has no repeating letters.
 - **[pangram/](./pangram/)**: Checking if a sentence uses every letter of the alphabet.
 - **[word_count/](./word_count/)**: Counting word frequencies in text.
+- **[hamming/](./hamming/)**: Calculating the Hamming distance between two DNA strands.
+- **[protein_translation/](./protein_translation/)**: Translating RNA sequences into proteins.
+- **[series/](./series/)**: Working with consecutive sub-series of digits.
 
 ### Text Processing & Encoding
 - **[pig_latin/](./pig_latin/)**: Text translation according to specific rules.
@@ -74,17 +77,17 @@ exercise_name/
 - **[atbash_cipher/](./atbash_cipher/)**: Encoding and decoding text using the Atbash cipher.
 - **[rotational_cipher/](./rotational_cipher/)**: Implementing the Caesar cipher rotation.
 - **[rail_fence_cipher/](./rail_fence_cipher/)**: Encoding with zig-zag pattern.
+- **[run_length_encoding/](./run_length_encoding/)**: Implementing RLE compression and decompression.
 
 ### Algorithms
 - **[binary_search/](./binary_search/)**: Efficient searching in sorted lists.
 - **[anagram/](./anagram/)**: Finding anagrams from a list of candidates.
 - **[all_your_base/](./all_your_base/)**: Base conversion algorithms.
 - **[flatten_array/](./flatten_array/)**: Converting nested arrays into a flat structure.
-- **[run_length_encoding/](./run_length_encoding/)**: Implementing RLE compression.
 - **[difference_of_squares/](./difference_of_squares/)**: Calculating mathematical differences.
-- **[nth_prime/](./nth_prime/)**: Finding the nth prime number.
 - **[sorting/](./sorting/)**: Various sorting algorithm implementations.
 - **[fibonacci/](./fibonacci/)**: Implementing the Fibonacci sequence.
+- **[nth_prime/](./nth_prime/)**: Finding the nth prime number.
 
 ### Mathematics
 - **[grains/](./grains/)**: Exponential growth calculation.
@@ -93,12 +96,12 @@ exercise_name/
 - **[collatz_conjecture/](./collatz_conjecture/)**: Implementation of a mathematical sequence.
 - **[raindrops/](./raindrops/)**: Advanced FizzBuzz-style problem.
 - **[triangle/](./triangle/)**: Geometric shape validation.
-- **[prime_factors/](./prime_factors/)**: Prime factorization of numbers.
 - **[largest_series_product/](./largest_series_product/)**: Finding the largest product in a series of digits.
 - **[wordy/](./wordy/)**: Parse and evaluate simple math word problems.
 - **[palindrome_products/](./palindrome_products/)**: Finding palindromic products and their factors.
 - **[pythagorean_triplet/](./pythagorean_triplet/)**: Finding special triangles with integer sides.
 - **[sieve/](./sieve/)**: Implementing the Sieve of Eratosthenes.
+- **[prime_factors/](./prime_factors/)**: Prime factorization of numbers.
 
 ### Object-Oriented Programming
 - **[class_inheritance/](./class_inheritance/)**: Implementing inheritance relationships.
