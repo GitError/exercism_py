@@ -71,6 +71,7 @@ solution/exercise_name/
 - **[protein_translation/](./solution/protein_translation/)**: Translating RNA sequences into proteins.
 - **[series/](./solution/series/)**: Working with consecutive sub-series of digits.
 - **[bottle_song/](./solution/bottle_song/)**: Generating the lyrics to the "99 Bottles of Beer" song.
+- **[food_chain/](./solution/food_chain/)**: Generating the cumulative song "I Know an Old Lady Who Swallowed a Fly".
 
 ### Text Processing & Encoding
 - **[pig_latin/](./solution/pig_latin/)**: Text translation according to specific rules.
@@ -94,6 +95,7 @@ solution/exercise_name/
 - **[sorting/](./solution/sorting/)**: Various sorting algorithm implementations.
 - **[fibonacci/](./solution/fibonacci/)**: Implementing the Fibonacci sequence.
 - **[nth_prime/](./solution/nth_prime/)**: Finding the nth prime number.
+- **[knapsack/](./solution/knapsack/)**: Solving the classic optimization problem of item selection.
 
 ### Mathematics
 - **[grains/](./solution/grains/)**: Exponential growth calculation.
@@ -129,6 +131,7 @@ solution/exercise_name/
 - **[saddle_points/](./solution/saddle_points/)**: Finding special points in a matrix.
 - **[connect/](./solution/connect/)**: Implementing the board game "Connect".
 - **[hangman/](./solution/hangman/)**: Classic word-guessing game implementation.
+- **[scrabble_score/](./solution/scrabble_score/)**: Calculating Scrabble word scores.
 
 ### Electronics
 - **[resistor_color/](./solution/resistor_color/)**: Basic resistor color codes.
@@ -145,7 +148,6 @@ solution/exercise_name/
 - **[generator/](./solution/generator/)**: Creating and working with generators.
 
 ### Advanced Concepts
-- **[scrabble_score/](./solution/scrabble_score/)**: Calculating Scrabble word scores.
 - **[diamond/](./solution/diamond/)**: Generating a diamond shape based on a given letter.
 - **[house/](./solution/house/)**: Reciting the nursery rhyme "This is the House that Jack Built."
 - **[killer_sudoku_helper/](./solution/killer_sudoku_helper/)**: Generating valid combinations for Killer Sudoku cages.
@@ -155,6 +157,7 @@ solution/exercise_name/
 - **[parallel_letter_frequency/](./solution/parallel_letter_frequency/)**: Multi-threaded letter counting.
 - **[error_handling/](./solution/error_handling/)**: Advanced exception handling techniques.
 - **[complex_numbers/](./solution/complex_numbers/)**: Implementing a complex number class.
+- **[forth/](./solution/forth/)**: Implementing a simplified Forth language interpreter.
 
 ### Web and APIs
 - **[rest_api/](./solution/rest_api/)**: Building a simple REST API.
