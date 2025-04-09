@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![Exercises](https://img.shields.io/badge/Exercises-50%2B-brightgreen)
+![Exercises](https://img.shields.io/badge/Exercises-70%2B-brightgreen)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
 ![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen)
 
@@ -51,6 +51,8 @@ exercise_name/
 - **[lists/](./lists/)**: Basic list operations and transformations.
 - **[tuples/](./tuples/)**: Organizing treasure hunt data using tuples.
 - **[dictionaries/](./dictionaries/)**: Working with key-value data structures.
+- **[dicts/](./dicts/)**: Advanced dictionary manipulations and transformations.
+- **[etl/](./etl/)**: Extract-Transform-Load operations with data structures.
 - **[sets/](./sets/)**: Solving problems using unordered collections.
 - **[sublist/](./sublist/)**: Compare relationships between lists.
 - **[list_ops/](./list_ops/)**: Implementing basic list operations like map, filter, and fold.
@@ -68,10 +70,14 @@ exercise_name/
 - **[hamming/](./hamming/)**: Calculating the Hamming distance between two DNA strands.
 - **[protein_translation/](./protein_translation/)**: Translating RNA sequences into proteins.
 - **[series/](./series/)**: Working with consecutive sub-series of digits.
+- **[bottle_song/](./bottle_song/)**: Generating the lyrics to the "99 Bottles of Beer" song.
 
 ### Text Processing & Encoding
 - **[pig_latin/](./pig_latin/)**: Text translation according to specific rules.
 - **[bob/](./bob/)**: Response generation based on input patterns.
+- **[say/](./say/)**: Converting numbers into words and phrases.
+- **[roman_numerals/](./roman_numerals/)**: Converting decimal numbers to Roman numerals.
+- **[ocr_numbers/](./ocr_numbers/)**: Recognizing and parsing ASCII-encoded numerals.
 - **[matching_brackets/](./matching_brackets/)**: Verifying balanced brackets, braces, and parentheses.
 - **[crypto_square/](./crypto_square/)**: Encoding text using the square code cipher.
 - **[atbash_cipher/](./atbash_cipher/)**: Encoding and decoding text using the Atbash cipher.
@@ -91,10 +97,12 @@ exercise_name/
 
 ### Mathematics
 - **[grains/](./grains/)**: Exponential growth calculation.
+- **[space_age/](./space_age/)**: Calculating age on different planets.
 - **[perfect_numbers/](./perfect_numbers/)**: Number classification.
 - **[armstrong_numbers/](./armstrong_numbers/)**: Validating Armstrong numbers.
 - **[collatz_conjecture/](./collatz_conjecture/)**: Implementation of a mathematical sequence.
 - **[raindrops/](./raindrops/)**: Advanced FizzBuzz-style problem.
+- **[eliuds_eggs/](./eliuds_eggs/)**: Binary counting and hamming weight calculation.
 - **[triangle/](./triangle/)**: Geometric shape validation.
 - **[largest_series_product/](./largest_series_product/)**: Finding the largest product in a series of digits.
 - **[wordy/](./wordy/)**: Parse and evaluate simple math word problems.
