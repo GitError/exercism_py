@@ -112,6 +112,7 @@ solution/exercise_name/
 - **[pythagorean_triplet/](./solution/pythagorean_triplet/)**: Finding special triangles with integer sides.
 - **[sieve/](./solution/sieve/)**: Implementing the Sieve of Eratosthenes.
 - **[prime_factors/](./solution/prime_factors/)**: Prime factorization of numbers.
+- **[scale_generator/](./solution/scale_generator/)**: Generate musical scales based on tonic and interval patterns.
 
 ### Object-Oriented Programming
 - **[class_inheritance/](./solution/class_inheritance/)**: Implementing inheritance relationships.
@@ -132,6 +133,8 @@ solution/exercise_name/
 - **[connect/](./solution/connect/)**: Implementing the board game "Connect".
 - **[hangman/](./solution/hangman/)**: Classic word-guessing game implementation.
 - **[scrabble_score/](./solution/scrabble_score/)**: Calculating Scrabble word scores.
+- **[dominoes/](./solution/dominoes/)**: Solving chain/circle arrangements of domino tiles.
+- **[tournament/](./solution/tournament/)**: Simulating and scoring a sports tournament.
 
 ### Electronics
 - **[resistor_color/](./solution/resistor_color/)**: Basic resistor color codes.
@@ -158,6 +161,7 @@ solution/exercise_name/
 - **[error_handling/](./solution/error_handling/)**: Advanced exception handling techniques.
 - **[complex_numbers/](./solution/complex_numbers/)**: Implementing a complex number class.
 - **[forth/](./solution/forth/)**: Implementing a simplified Forth language interpreter.
+- **[zebra_puzzle/](./solution/zebra_puzzle/)**: Solving Einstein's classic logic puzzle using constraint satisfaction.
 
 ### Web and APIs
 - **[rest_api/](./solution/rest_api/)**: Building a simple REST API.
