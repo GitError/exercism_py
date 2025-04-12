@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![Exercises](https://img.shields.io/badge/Exercises-80%2B-brightgreen)
+![Exercises](https://img.shields.io/badge/Exercises-85%2B-brightgreen)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
 ![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen)
 
@@ -114,6 +114,7 @@ solution/exercise_name/
 - **[palindrome_products/](./solution/palindrome_products/)**: Finding palindromic products and their factors.
 - **[pythagorean_triplet/](./solution/pythagorean_triplet/)**: Finding special triangles with integer sides.
 - **[sieve/](./solution/sieve/)**: Implementing the Sieve of Eratosthenes.
+- **[sum_of_multiples/](./solution/sum_of_multiples/)**: Calculating the sum of multiples of specific numbers.
 - **[prime_factors/](./solution/prime_factors/)**: Prime factorization of numbers.
 - **[scale_generator/](./solution/scale_generator/)**: Generate musical scales based on tonic and interval patterns.
 
@@ -185,7 +186,7 @@ solution/exercise_name/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/exercism-python-solutions.git
+   git clone https://github.com/GitError/exercism_py.git
    cd exercism-python-solutions
    ```
 
