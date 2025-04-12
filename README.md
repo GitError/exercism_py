@@ -51,6 +51,7 @@ solution/exercise_name/
 - **[lists/](./solution/lists/)**: Basic list operations and transformations.
 - **[tuples/](./solution/tuples/)**: Organizing treasure hunt data using tuples.
 - **[dictionaries/](./solution/dictionaries/)**: Working with key-value data structures.
+- **[dict_methods/](./solution/dict_methods/)**: Exploring Python's built-in dictionary methods and operations.
 - **[dicts/](./solution/dicts/)**: Advanced dictionary manipulations and transformations.
 - **[etl/](./solution/etl/)**: Extract-Transform-Load operations with data structures.
 - **[sets/](./solution/sets/)**: Solving problems using unordered collections.
@@ -85,6 +86,7 @@ solution/exercise_name/
 - **[rotational_cipher/](./solution/rotational_cipher/)**: Implementing the Caesar cipher rotation.
 - **[rail_fence_cipher/](./solution/rail_fence_cipher/)**: Encoding with zig-zag pattern.
 - **[run_length_encoding/](./solution/run_length_encoding/)**: Implementing RLE compression and decompression.
+- **[markdown/](./solution/markdown/)**: Parsing and formatting Markdown text.
 
 ### Algorithms
 - **[binary_search/](./solution/binary_search/)**: Efficient searching in sorted lists.
