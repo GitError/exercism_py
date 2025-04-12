@@ -43,5 +43,5 @@ Features:
 ## Running Tests
 
 ```bash
-python -m unittest test_scrabble_score.py
+python -m unittest scrabble_score_test.py
 ```

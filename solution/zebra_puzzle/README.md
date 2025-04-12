@@ -43,7 +43,7 @@ The solution uses a caching mechanism to avoid recomputing the puzzle solution e
 To run the tests, execute:
 
 ```bash
-python -m unittest test_zebra_puzzle.py
+python -m unittest zebra_puzzle_test.py
 ```
 
 ## Expected Results

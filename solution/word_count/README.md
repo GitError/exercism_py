@@ -49,7 +49,7 @@ print(result)  # {'hello': 2, 'world': 1}
 Run the tests with:
 
 ```
-python -m unittest test_word_count.py
+python -m unittest word_count_test.py
 ```
 
 ## Notes

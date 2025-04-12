@@ -69,6 +69,21 @@ def reverse(text: str) -> str:
     return text[::-1]
 
 
+def is_palindrome(text: str) -> bool:
+    """Check if the given string is a palindrome.
+
+    :param text: str - The string to check.
+    :return: bool - True if the string is a palindrome, False otherwise.
+
+    A palindrome reads the same forward and backward.
+    For example:
+    "racecar" is a palindrome.
+    "madam" is a palindrome.
+    "hello" is not a palindrome.
+    """
+    return text == text[::-1]
+
+
 def is_pangram(sentence: str) -> bool:
     """Determine if a sentence is a pangram.
 

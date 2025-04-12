@@ -41,3 +41,28 @@ for line in table:
 
 This will produce a formatted standings table:
 
+```
+Team                           | MP |  W |  D |  L |  P
+Devastating Donkeys            |  3 |  2 |  1 |  0 |  7
+Allegoric Alaskans             |  3 |  2 |  0 |  1 |  6
+Blithering Badgers             |  3 |  1 |  0 |  2 |  3
+Courageous Californians        |  3 |  0 |  1 |  2 |  1
+```
+
+## Implementation Details
+
+The solution uses the following approach:
+
+1. Parses each match result and updates team statistics in a dictionary
+2. Calculates points based on match outcomes (win=3, draw=1, loss=0)
+3. Sorts teams by points (highest first) and then alphabetically by name
+4. Formats the output with proper spacing and alignment
+
+## Features
+
+- Robust handling of various input formats
+- Skips empty lines and malformed input
+- Properly handles teams with equal points
+- Clean, efficient implementation with detailed docstrings
+- Extensive test coverage for various scenarios
+

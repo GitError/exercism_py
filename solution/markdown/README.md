@@ -50,7 +50,7 @@ Regular expressions are used to identify and transform Markdown patterns into th
 Run the tests using the following command:
 
 ```
-python -m unittest test_markdown.py
+python -m unittest markdown_test.py
 ```
 
 The test suite includes a comprehensive set of test cases to ensure the parser handles all supported Markdown syntax correctly.

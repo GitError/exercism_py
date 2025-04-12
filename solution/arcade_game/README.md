@@ -55,7 +55,7 @@ Determines if Pac-Man has won the game by eating all dots without losing.
 
 ---
 
-## 🚀 Usage
+## 🚀 Usage Examples
 
 ### Example 1: Eating a Ghost
 ```python
@@ -63,3 +63,48 @@ from arcade_game import eat_ghost
 
 result = eat_ghost(power_pellet_active=True, touching_ghost=True)
 print(result)  # Output: True
+```
+
+### Example 2: Scoring Points
+```python
+from arcade_game import score
+
+result = score(touching_power_pellet=True, touching_dot=False)
+print(result)  # Output: True
+
+result = score(touching_power_pellet=False, touching_dot=True)
+print(result)  # Output: True
+```
+
+### Example 3: Losing the Game
+```python
+from arcade_game import lose
+
+result = lose(power_pellet_active=False, touching_ghost=True)
+print(result)  # Output: True
+```
+
+### Example 4: Winning the Game
+```python
+from arcade_game import win
+
+result = win(has_eaten_all_dots=True, power_pellet_active=True, touching_ghost=False)
+print(result)  # Output: True
+```
+
+## 🎮 Game Logic Summary
+
+| Scenario | Power Pellet | Touching Ghost | All Dots Eaten | Outcome |
+|----------|--------------|----------------|----------------|---------|
+| Eat Ghost | Active ✅ | Yes ✅ | - | Ghost eaten ✅ |
+| Lose | Not Active ❌ | Yes ✅ | - | Game Over ❌ |
+| Score | - | - | Touching dot/pellet ✅ | Points earned ✅ |
+| Win | - | Not touching ghost or has power pellet | Yes ✅ | Game Won 🏆 |
+
+## 🧪 Testing
+
+Run the included tests to verify functionality:
+
+```bash
+pytest arcade_game_test.py
+```
