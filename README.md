@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![Exercises](https://img.shields.io/badge/Exercises-70%2B-brightgreen)
+![Exercises](https://img.shields.io/badge/Exercises-80%2B-brightgreen)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
 ![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen)
 
@@ -59,6 +59,7 @@ solution/exercise_name/
 - **[list_ops/](./solution/list_ops/)**: Implementing basic list operations like map, filter, and fold.
 - **[linked_list/](./solution/linked_list/)**: Implementation of a doubly linked list.
 - **[binary_tree/](./solution/binary_tree/)**: Working with tree data structures.
+- **[two_few/](./solution/two_few/)**: Manipulating and processing paired data elements.
 
 ### String Manipulation
 - **[strings/](./solution/strings/)**: Basic string manipulation techniques.
