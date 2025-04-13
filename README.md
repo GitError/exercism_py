@@ -102,6 +102,8 @@ solution/exercise_name/
 - **[fibonacci/](./solution/fibonacci/)**: Implementing the Fibonacci sequence.
 - **[nth_prime/](./solution/nth_prime/)**: Finding the nth prime number.
 - **[knapsack/](./solution/knapsack/)**: Solving the classic optimization problem of item selection.
+- **[spiral_matrix/](./solution/spiral_matrix/)**: Generating a spiral matrix of numbers.
+- **[book_store/](./solution/book_store/)**: Optimizing discounts for book purchases.
 
 ### Mathematics
 - **[grains/](./solution/grains/)**: Exponential growth calculation.
@@ -157,6 +159,7 @@ solution/exercise_name/
 - **[metaclass/](./solution/metaclass/)**: Working with Python's metaclass system.
 - **[descriptor/](./solution/descriptor/)**: Implementing descriptor protocols.
 - **[generator/](./solution/generator/)**: Creating and working with generators.
+- **[paasio/](./solution/paasio/)**: Implementing I/O operations with read/write statistics.
 
 ### Advanced Concepts
 - **[diamond/](./solution/diamond/)**: Generating a diamond shape based on a given letter.
