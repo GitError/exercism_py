@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![Exercises](https://img.shields.io/badge/Exercises-85%2B-brightgreen)
+![Exercises](https://img.shields.io/badge/Exercises-90%2B-brightgreen)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
 ![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen)
 
@@ -60,6 +60,8 @@ solution/exercise_name/
 - **[linked_list/](./solution/linked_list/)**: Implementation of a doubly linked list.
 - **[binary_tree/](./solution/binary_tree/)**: Working with tree data structures.
 - **[two_few/](./solution/two_few/)**: Manipulating and processing paired data elements.
+- **[transpose/](./solution/transpose/)**: Converting rows to columns in a matrix.
+- **[locomotive_engineer/](./solution/locomotive_engineer/)**: Working with list unpacking and restructuring data.
 
 ### String Manipulation
 - **[strings/](./solution/strings/)**: Basic string manipulation techniques.
@@ -74,6 +76,7 @@ solution/exercise_name/
 - **[series/](./solution/series/)**: Working with consecutive sub-series of digits.
 - **[bottle_song/](./solution/bottle_song/)**: Generating the lyrics to the "99 Bottles of Beer" song.
 - **[food_chain/](./solution/food_chain/)**: Generating the cumulative song "I Know an Old Lady Who Swallowed a Fly".
+- **[proverb/](./solution/proverb/)**: Creating a rhythmic proverb from input strings.
 
 ### Text Processing & Encoding
 - **[pig_latin/](./solution/pig_latin/)**: Text translation according to specific rules.
@@ -120,6 +123,7 @@ solution/exercise_name/
 
 ### Object-Oriented Programming
 - **[class_inheritance/](./solution/class_inheritance/)**: Implementing inheritance relationships.
+- **[classes/](./solution/classes/)**: Working with basic class definitions and instantiation.
 - **[bank_account/](./solution/bank_account/)**: Managing financial transactions with OOP.
 - **[robot_name/](./solution/robot_name/)**: Generating and managing unique identifiers.
 - **[phone_number/](./solution/phone_number/)**: Parsing and validating phone numbers.
@@ -212,7 +216,7 @@ solution/exercise_name/
 
 You can run any solution directly:
 ```bash
-python ./solution/[exercise_name]/[exercise_name].py
+python .//exercism_py/[exercise_name]/[exercise_name].py
 ```
 
 ### Running Tests
@@ -220,7 +224,7 @@ python ./solution/[exercise_name]/[exercise_name].py
 To verify a solution against the test cases:
 ```bash
 # Run tests for a specific exercise
-pytest ./solution/[exercise_name]/[exercise_name_test].py
+pytest .//exercism_py/[exercise_name]/[exercise_name_test].py
 
 # Run all tests
 pytest
